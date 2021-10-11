@@ -24,3 +24,5 @@ public interface dad {
         }
 
         }
+        
+        System.out.println("raj");
